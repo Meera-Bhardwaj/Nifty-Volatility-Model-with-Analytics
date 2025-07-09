@@ -1,0 +1,6 @@
+Predictor Name,Coefficient,P-value,Standard Error,t-Stat
+Intercept,0.00,0.72,0.01,-0.35
+Nifty Close,0.00,0.44,0.00,0.77
+VIX Close,0.00,0.01,0.00,2.50
+Nifty_Log_Returns,0.14,0.04,0.07,2.11
+Nifty_Rolling_Vol_20D_Lag1,0.91,0.00,0.01,67.03
